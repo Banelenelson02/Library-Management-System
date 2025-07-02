@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+out/
+
+# MySQL Connector
+lib/mysql-connector-java*.jar
+
+# Database credentials
+config.properties
+
+# IDE files
+.idea/
+*.iml
