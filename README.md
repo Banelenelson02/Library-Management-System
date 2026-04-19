@@ -1,12 +1,17 @@
-# Library Management System
-
-A Java-based Library Management System with MySQL database integration.
-
-## Features
-- Book management (add/view)
-- Member registration
-- Book lending/returning
-- Reporting (borrowed books, overdue books)
+📚 Library Management System
+A Java CLI application for managing a library’s books, members, and borrowing operations — backed by MySQL.
+Features
+	•	✅ Add, view, search, update, and delete books
+	•	✅ Register, view, search, and remove members
+	•	✅ Borrow and return books with automatic availability tracking
+	•	✅ 14-day due date assigned on borrow
+	•	✅ Borrow history report
+	•	✅ Overdue books report
+Tech Stack
+	•	Language: Java 17+
+	•	Database: MySQL
+	•	Connector: MySQL JDBC Driver (mysql-connector-j)
+Project Structure
 ## 📸 Screenshots
 
 ### Main Menu
